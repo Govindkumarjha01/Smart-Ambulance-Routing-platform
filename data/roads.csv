@@ -1,0 +1,10 @@
+from,to,distance
+Knowledge park,jagat,4
+Knowledge park,pari Chowk,2
+jagat,pari Chowk,1
+jagat,Suraj pur,5
+pari Chowk,Suraj pur,8
+pari Chowk,sutyana,10
+Suraj pur,sutyana,2
+Suraj pur,Kulesra,6
+Kulesra,Alpha 2,3
